@@ -1,0 +1,1 @@
+message = "default pipeline configuration" 
